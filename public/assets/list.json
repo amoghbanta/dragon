@@ -1,0 +1,26 @@
+{
+    "tiktok": [
+        {
+            "name": "ABC",
+            "url":  "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US",
+            "icon": ""
+        }, 
+        {
+            "name": "XYZ",
+            "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US",
+            "icon": ""
+        }     
+    ],
+    "ucbrowser": [
+        {
+            "name": "Google Chrome",
+            "url": "https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US",
+            "icon": ""
+        },
+        {
+            "name": "Firefox",
+            "url": "https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US",
+            "icon": ""
+        }
+    ]
+}

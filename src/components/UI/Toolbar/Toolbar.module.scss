@@ -1,0 +1,41 @@
+header {
+    background-color: #23527c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.Title {
+    margin: 20px 20px;
+    color: #fff;
+    font-size: 200%;
+    font-weight: 400;
+}
+@media(max-width: 500px) {
+    .Title {
+        font-size: 100%;
+        font-weight: 200;
+    }
+}
+
+
+.SearchBox {
+    display: flex;
+    background-color: #fff;
+    color: #333;
+    border-radius: 3px;
+    width: 50%;
+    margin: 20px 20px;
+}
+.Search {
+    flex-grow: 1;
+    border-radius: 0 3px 3px 0;
+    padding: 10px;
+    border: 0;
+}
+
+.Label {
+    padding: 10px;
+    border-right: 1px solid #eee;
+}
