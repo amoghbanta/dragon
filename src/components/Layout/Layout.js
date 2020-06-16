@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, {Component, Fragment} from 'react';
 import Toolbar from '../UI/Toolbar/Toolbar';
 import axios from 'axios';
 import List from '../UI/List/List';
@@ -7,38 +7,38 @@ class Layout extends Component {
     origData: null,
     origKeys: null,
     data: null,
-    keys: null,
+    keys: null
   };
 
   componentDidMount() {
     axios
       .get('assets/list.json')
       .then((resp) => {
-        this.setState({ data: resp.data });
-        this.setState({ keys: Object.keys(resp.data) });
+        const tempKeys = resp.data.map((item) => item.app_name);
         this.setState({
-          origData: this.state.data,
-          origKeys: this.state.keys
+          data: resp.data,
+          keys: tempKeys,
+          origData: resp.data,
+          origKeys: tempKeys
         });
       })
       .catch((err) => console.log(err));
   }
 
   onSearch = (item) => {
-    const array = [...this.state.origKeys]
+    const array = [...this.state.origKeys];
     this.setState({
-      keys: this.setKeys(item, array),
+      keys: this.setKeys(item, array)
     });
   };
+
   setKeys = (item, arr) => {
-    // console.log('Item', item);
-    if(item === '') {
-      // console.log('Returnning', arr);
+    if (item === '') {
       return arr;
     } else {
       return arr.filter((key) => {
-        if (key.search(item) >= 0) {
-          // console.log('[Item]', item);
+        if (key.toLowerCase().search(item.toLowerCase()) >= 0) {
+          console.log(key);
           return key;
         }
       });
@@ -46,10 +46,18 @@ class Layout extends Component {
   };
 
   render() {
-    let listI = <p style={{ textAlign: 'center' }}>Something went wrong!</p>;
+    let listI = <p style={{textAlign: 'center'}}>Something went wrong!</p>;
     if (this.state.keys) {
       listI = this.state.keys.map((list) => {
-        return <List appName={list} key={list} data={this.state.data[list]} />;
+        return (
+          <List
+            appName={list}
+            key={list}
+            data={this.state.data
+              .filter((item) => item.app_name === list)
+              .map((item) => item.alternate)}
+          />
+        );
       });
     }
 
@@ -61,5 +69,4 @@ class Layout extends Component {
     );
   }
 }
-
 export default Layout;
