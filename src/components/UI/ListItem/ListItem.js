@@ -11,7 +11,7 @@ const listItem = (props) => {
         <li className={classes.ListItem} key={item[0].app_name}>
           <span className={classes.Name}>{item[0].app_name}</span>
           <a
-            href={item[0].package_name}
+            href={`https://play.google.com/store/apps/details?id=${item[0].package_name}`}
             className={classes.icon}
             target='_blank'
             rel='noopener noreferrer'
