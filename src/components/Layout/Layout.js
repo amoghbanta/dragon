@@ -52,6 +52,9 @@ class Layout extends Component {
         return (
           <List
             appName={list}
+            packageName={this.state.data
+              .filter((item) => item.app_name === list)
+              .map((item) => item.package_name)}
             key={list}
             data={this.state.data
               .filter((item) => item.app_name === list)
