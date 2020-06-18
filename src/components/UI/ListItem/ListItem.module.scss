@@ -4,10 +4,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 100px;  
+    height: 80px;  
     border: 1px solid #fff;
     border-radius: 10px;
-    box-shadow:   inset 0 0 10px #000000;
+    // box-shadow:   inset 0 0 10px #000000;
+    font-size: 100%;
+    font-weight: 600;
+    color: #23527c
 }
 
 .ListItem:hover,
@@ -15,10 +18,17 @@
     background-color: #e4e4e4;
 }
 .ListItem a {
-    color: #000;
+    color: #23527c;
     text-decoration: none;
+    font-size: x-large;
 }
-
+p {
+  border: 8px solid 23527c;
+  border-radius: 2px;
+  color: #fff;
+  background-color: #e1ad01;
+  padding: 6px;
+}
 .icon {
     cursor: pointer;
 }
@@ -34,7 +44,55 @@
 .ListItem a.active {
     color: #011;
 }
-
+.List {
+    margin: 20px auto;
+    width: 50%;
+    border: 1px solid #eee;
+  }
+  
+  .ListHeader {
+    background-color: #20b2aa;
+    color: #fff;
+    font-size: 200%;
+    font-weight: 400;
+    padding: 1em 20px;
+    margin: 0;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px #000000;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    a {
+      list-style: none;
+      color: #000;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .ListHeader {
+      font-size: 100%;
+      font-weight: 200;
+    }
+  }
+  
+  .UnorderedList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 100%;
+    border: none;
+  }
+  
+  .icon {
+    cursor: pointer;
+  }
+  
 /* @media (min-width: 500px) {
     .ListItem {
         margin: 0;

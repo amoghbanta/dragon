@@ -1,0 +1,29 @@
+.Feed {
+   position: absolute;
+   height: 30%;
+   background-color: #e1ad01;
+left: 10px;
+top: 30%;   
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+@media (max-width: 500px) {
+    .Feed {
+        position: relative;
+        margin-left: 40px;
+        width: 250px;
+    }
+}
+
+ul {
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+li {
+    list-style-type: none;
+    padding: 10px 10px 10px 10px;
+}
+a {
+    color: #23527c;
+}

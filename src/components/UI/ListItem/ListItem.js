@@ -9,7 +9,7 @@ const listItem = (props) => {
     listItemData = props.listItems.map((item) => {
       return (
         <li className={classes.ListItem} key={item[0].app_name}>
-          <span className={classes.Name}>{item[0].app_name}</span>
+        <p>Alternative App</p>  <span className={classes.Name}>{item[0].app_name}</span>
           <a
             href={`https://play.google.com/store/apps/details?id=${item[0].package_name}`}
             className={classes.icon}

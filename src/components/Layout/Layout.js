@@ -2,6 +2,8 @@ import React, {Component, Fragment} from 'react';
 import Toolbar from '../UI/Toolbar/Toolbar';
 import axios from 'axios';
 import List from '../UI/List/List';
+import Feed from '../Feed/feed';
+import classes from './Layout.module.scss';
 class Layout extends Component {
   state = {
     origData: null,
@@ -59,6 +61,7 @@ class Layout extends Component {
             data={this.state.data
               .filter((item) => item.app_name === list)
               .map((item) => item.alternate)}
+
           />
         );
       });
@@ -66,8 +69,9 @@ class Layout extends Component {
 
     return (
       <Fragment>
-        <Toolbar startSearch={this.onSearch} />
-        {listI}
+        <Toolbar startSearch={this.onSearch}  /> 
+          <Feed className={classes.Feed}/> 
+          {listI}
       </Fragment>
     );
   }
