@@ -20,8 +20,7 @@ code {
   width: 100%;
   color: white;
   text-align: center;
-  height: 35px
-  
+
 }
 i {
   color: red;
@@ -39,5 +38,24 @@ img {
   padding: 1px;
   margin: 3px;
   margin-left: 25px;
+
+}
+.content {
+  font-size: small;
+
+display: absolute;
+  bottom: 0;
+
+}
+
+dialog {
+  /* make the backdrop a semi-transparent black */
+  /* background-color: rgba(0, 0, 0, 0.4);
+  color: red; */
+
+
+
+
+
 
 }
