@@ -4,6 +4,7 @@ import axios from 'axios';
 import List from '../UI/List/List';
 import Feed from '../Feed/feed';
 import classes from './Layout.module.scss';
+import News from '../News/news'
 class Layout extends Component {
   state = {
     origData: null,
@@ -69,8 +70,10 @@ class Layout extends Component {
 
     return (
       <Fragment>
-        <Toolbar startSearch={this.onSearch}  /> 
-          <Feed className={classes.Feed}/> 
+        <Toolbar startSearch={this.onSearch}  />
+          <Feed className={classes.Feed}/>
+          <News />
+
           {listI}
       </Fragment>
     );

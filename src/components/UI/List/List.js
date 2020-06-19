@@ -2,11 +2,13 @@ import React from 'react';
 import classes from './List.module.scss';
 import {faTrash} from '@fortawesome/free-solid-svg-icons';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import { FacebookProvider, Share } from 'react-facebook';
+
 import ListItem from '../ListItem/ListItem';
 import Feed from '../../Feed/feed'
 
 const list = (props) => (
-  
+
   <div className={classes.List}>
     <div className={classes.ListHeader}>
 
@@ -19,15 +21,16 @@ const list = (props) => (
       >
         <FontAwesomeIcon className={classes.bin} icon={faTrash} />
       </a>
+
     </div>
-    
+
     <ul className={classes.UnorderedList}>
       <ListItem listItems={props.data} />
 
     </ul>
 
   </div>
-  
+
 );
 
 export default list;
