@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import classes from './Toolbar.module.scss';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import ReactDOM from "react-dom";
 
 
 class Toolbar extends Component {
@@ -21,11 +20,11 @@ class Toolbar extends Component {
   updateInputValueHandler = (event) => {
     const value = event.target.value;
     this.setState((state, props) => {
-        if(state.input !== value) {
-            return {input: value};
-        }
+      if (state.input !== value) {
+        return { input: value };
+      }
     }, () => {
-        this.startSearch();
+      this.startSearch();
     });
   };
 
@@ -35,7 +34,7 @@ class Toolbar extends Component {
   render() {
     return (
       <header>
-        <div className={classes.Title}>App Suggestions  
+        <div className={classes.Title}>App Suggestions
          </div>
         {/* <div className={classes.about}>About Us</div> */}
         <div className={classes.SearchBox}>
@@ -53,9 +52,9 @@ class Toolbar extends Component {
         </div>
       </header>
     );
-    
+
   }
-  
+
 }
 
 

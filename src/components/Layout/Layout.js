@@ -1,8 +1,9 @@
-import React, {Component, Fragment} from 'react';
+import React, { Component, Fragment } from 'react';
 import Toolbar from '../UI/Toolbar/Toolbar';
 import axios from 'axios';
 import List from '../UI/List/List';
 import Feed from '../Feed/feed';
+import FacebookShare from '../Share'
 import classes from './Layout.module.scss';
 class Layout extends Component {
   state = {
@@ -48,7 +49,7 @@ class Layout extends Component {
   };
 
   render() {
-    let listI = <p style={{textAlign: 'center'}}>Something went wrong!</p>;
+    let listI = <p style={{ textAlign: 'center' }}>Something went wrong!</p>;
     if (this.state.keys) {
       listI = this.state.keys.map((list) => {
         return (
@@ -69,9 +70,10 @@ class Layout extends Component {
 
     return (
       <Fragment>
-        <Toolbar startSearch={this.onSearch}  /> 
-          <Feed className={classes.Feed}/> 
-          {listI}
+        <Toolbar startSearch={this.onSearch} />
+        <Feed className={classes.Feed} />
+        <FacebookShare />
+        {listI}
       </Fragment>
     );
   }
