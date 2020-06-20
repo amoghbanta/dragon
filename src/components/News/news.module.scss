@@ -1,0 +1,21 @@
+.News {
+  height: auto;
+}
+@media (max-width: 500px) {
+  .News {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.Img {
+  width: 24%;
+  height: 35%;
+  // margin-right: 0;
+  // top: auto;
+  // position: absolute;
+}
+.Img2 {
+  width: 22%;
+  height: 30%;
+}

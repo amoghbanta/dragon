@@ -8,10 +8,11 @@ const listItem = (props) => {
   if (props) {
     listItemData = props.listItems.map((item) => {
       return (
-        <li className={classes.ListItem} key={item[0].app_name}>
-        <p>Alternative App</p>  <span className={classes.Name}>{item[0].app_name}</span>
+        <li className={classes.ListItem} key={item.alternate_app_name}>
+          <p>Alternative App</p> <span className={classes.Name}>{item.alternate_app_name}</span>
+          <span className={classes.Nation}>{item.alternate_app_NATIONALITY}</span>
           <a
-            href={`https://play.google.com/store/apps/details?id=${item[0].package_name}`}
+            href={`https://play.google.com/store/apps/details?id=${item.alternate_app_package_name}`}
             className={classes.icon}
             target='_blank'
             rel='noopener noreferrer'

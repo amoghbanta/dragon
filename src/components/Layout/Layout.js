@@ -5,6 +5,7 @@ import List from '../UI/List/List';
 import Feed from '../Feed/feed';
 import FacebookShare from '../Share'
 import classes from './Layout.module.scss';
+import News from '../News/news';
 class Layout extends Component {
   state = {
     origData: null,
@@ -17,7 +18,10 @@ class Layout extends Component {
     axios
       .get('assets/list.json')
       .then((resp) => {
-        const tempKeys = resp.data.map((item) => item.app_name);
+        // console.log('Response', resp.data);
+        const tempKeys = resp.data.map((item) => {
+          return item.app_name;
+        });
         this.setState({
           data: resp.data,
           keys: tempKeys,
@@ -61,8 +65,13 @@ class Layout extends Component {
             key={list}
             data={this.state.data
               .filter((item) => item.app_name === list)
-              .map((item) => item.alternate)}
-
+              .map((item) => {
+                return {
+                  alternate_app_name: item.alternate_app_name,
+                  alternate_app_package_name: item.alternate_app_package_name,
+                  alternate_app_NATIONALITY: item.alternate_app_NATIONALITY
+                };
+              })}
           />
         );
       });
@@ -73,6 +82,8 @@ class Layout extends Component {
         <Toolbar startSearch={this.onSearch} />
         <Feed className={classes.Feed} />
         <FacebookShare />
+        {/* <Feed className={classes.Feed} /> */}
+        <News />
         {listI}
       </Fragment>
     );

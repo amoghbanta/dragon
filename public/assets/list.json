@@ -2,1171 +2,778 @@
   {
     "app_name": "Helo",
     "package_name": "app.buzz.share",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "MITRON",
+    "alternate_app_package_name": "com.mitron.tv",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Helo Lite",
     "package_name": "app.buzz.share.lite",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "MITRON",
+    "alternate_app_package_name": "com.mitron.tv",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "SHAREit",
     "package_name": "com.lenovo.anyshare.gps",
-    "alternate": [
-      {
-        "app_name": "Files by Google",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files by Google",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "SHAREit Lite",
     "package_name": "shareit.lite",
-    "alternate": [
-      {
-        "app_name": "Files by Google",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files by Google",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "WATCHit",
     "package_name": "com.ushareit.watchit",
-    "alternate": [
-      {
-        "app_name": "Files by Google",
-        "package_name": "com.mxtech.videoplayer"
-      }
-    ]
+    "alternate_app_name": "Files by Google",
+    "alternate_app_package_name": "com.mxtech.videoplayer",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "TikTok",
     "package_name": "com.zhiliaoapp.musically",
-    "alternate": [
-      {
-        "app_name": "Dubsmash",
-        "package_name": "com.mobilemotion.dubsmash"
-      }
-    ]
+    "alternate_app_name": "Dubsmash",
+    "alternate_app_package_name": "com.mobilemotion.dubsmash",
+    "alternate_app_NATIONALITY": "German"
   },
   {
     "app_name": "TikTok Wall Picture",
     "package_name": "com.zhiliao.musically.livewallpaper",
-    "alternate": [
-      {
-        "app_name": "funimate",
-        "package_name": "com.avcrbt.funimate"
-      }
-    ]
+    "alternate_app_name": "funimate",
+    "alternate_app_package_name": "com.avcrbt.funimate",
+    "alternate_app_NATIONALITY": "American "
   },
   {
     "app_name": "TikTok Lite",
     "package_name": "com.ss.android.ugc.trill.go",
-    "alternate": [
-      {
-        "app_name": "Dubsmash",
-        "package_name": "com.mobilemotion.dubsmash"
-      }
-    ]
+    "alternate_app_name": "Dubsmash",
+    "alternate_app_package_name": "com.mobilemotion.dubsmash",
+    "alternate_app_NATIONALITY": "German"
   },
   {
     "app_name": "Kwai",
     "package_name": "com.kwai.video",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "MITRON",
+    "alternate_app_package_name": "com.mitron.tv",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "UCBrowser",
     "package_name": "com.UCMobile.intl",
-    "alternate": [
-      {
-        "app_name": "Google Chrome",
-        "package_name": "com.android.chrome"
-      }
-    ]
+    "alternate_app_name": "JioBrowser - Fast & Secure Indian Web Browser",
+    "alternate_app_package_name": "com.jio.web",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "UCBrowser Mini",
     "package_name": "com.uc.browser.en",
-    "alternate": [
-      {
-        "app_name": "Google Chrome",
-        "package_name": "com.android.chrome"
-      }
-    ]
+    "alternate_app_name": "JioBrowser - Fast & Secure Indian Web Browser",
+    "alternate_app_package_name": "com.jio.web",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "UC Browser Turbo",
     "package_name": "com.ucturbo",
-    "alternate": [
-      {
-        "app_name": "Google chrome",
-        "package_name": "com.android.chrome"
-      }
-    ]
+    "alternate_app_name": "JioBrowser - Fast & Secure Indian Web Browser",
+    "alternate_app_package_name": "com.jio.web",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "UC Cricket",
     "package_name": "com.CricChat.intl",
-    "alternate": [
-      {
-        "app_name": "Cricbuzz Live Cricket",
-        "package_name": "com.cricbuzz.android"
-      }
-    ]
+    "alternate_app_name": "Cricbuzz Live Cricket ",
+    "alternate_app_package_name": "com.cricbuzz.android",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "LiveMe",
     "package_name": "com.live.royal",
-    "alternate": [
-      {
-        "app_name": "Instagram",
-        "package_name": "com.instagram.android"
-      }
-    ]
+    "alternate_app_name": "Instagram",
+    "alternate_app_package_name": "com.instagram.android",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "Bigo Live",
     "package_name": "sg.bigo.live",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "MITRON",
+    "alternate_app_package_name": "com.mitron.tv",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Vigo Video",
     "package_name": "com.ss.android.ugc.boom",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "MITRON",
+    "alternate_app_package_name": "com.mitron.tv",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Vigo Video Live Photo",
     "package_name": "com.ss.android.ugc.boom.livewallpaper",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "IGTV",
+    "alternate_app_package_name": "com.instagram.igtv",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "AirBrush: Easy Photo Editor",
     "package_name": "com.magicv.airbrush",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "BeautyPlus",
     "package_name": "com.commsource.beautyplus",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "MakeupPlus",
     "package_name": "com.meitu.makeup",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "Meitu",
     "package_name": "com.mt.mtxx.mtxx",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "BeautyCam",
     "package_name": "com.meitu.meiyancamera",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "O2Cam",
     "package_name": "com.meitu.oxygen",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "AirVid Video Filters & Frames",
     "package_name": "com.meitu.airvid",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "PlusMe Camera",
     "package_name": "com.meitu.beautyplusme",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "Meipai",
     "package_name": "com.meitu.meipaimv",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "IGTV",
+    "alternate_app_package_name": "com.instagram.igtv",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "Pomelo",
     "package_name": "com.beautyplus.pomelo.filters.photo",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "SelfieCity",
     "package_name": "com.meitu.wheecam",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "AirBrush 2Go",
     "package_name": "com.meitu.airbrush.vivo",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "BOXxCAM",
     "package_name": "com.meitu.boxxcam",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera by SK Communications",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "Xender",
     "package_name": "cn.xender",
-    "alternate": [
-      {
-        "app_name": "Files by Google",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files by Google",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Cam Scanner",
     "package_name": "com.intsig.camscanner",
-    "alternate": [
-      {
-        "app_name": "Camera Scanner",
-        "package_name": "com.devkrushna.document.scanner"
-      }
-    ]
+    "alternate_app_name": "Camera Scanner - PDF Scanner App",
+    "alternate_app_package_name": "com.devkrushna.document.scanner",
+    "alternate_app_NATIONALITY": "American (Cross-check)"
   },
   {
     "app_name": "CamCard Free",
     "package_name": "com.intsig.BCRLite",
-    "alternate": [
-      {
-        "app_name": "Camera Scanner",
-        "package_name": "com.devkrushna.document.scanner"
-      }
-    ]
+    "alternate_app_name": "Camera Scanner - PDF Scanner App",
+    "alternate_app_package_name": "com.devkrushna.document.scanner",
+    "alternate_app_NATIONALITY": "American (Cross-check)"
   },
   {
     "app_name": "Ludo World",
     "package_name": "com.tencent.ludosuperstar",
-    "alternate": [
-      {
-        "app_name": "Ludo king",
-        "package_name": "com.ludo.king"
-      }
-    ]
+    "alternate_app_name": "Ludo king by Gametion Technologies ",
+    "alternate_app_package_name": "com.ludo.king",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Arena of Valor",
     "package_name": "com.ngame.allstar.eu",
-    "alternate": [
-      {
-        "app_name": "Guardians of the Sky",
-        "package_name": "com.threye.iaf.gots"
-      }
-    ]
+    "alternate_app_name": "Guardians of the sky Indian airforce ",
+    "alternate_app_package_name": "com.threye.iaf.gots",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Clash of Kings",
     "package_name": "com.hcg.cok.gp",
-    "alternate": [
-      {
-        "app_name": "March of Empires by Gameloft",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of Empires by Gameloft",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Clash of Kings:The West",
     "package_name": "com.hcg.ctw.gp",
-    "alternate": [
-      {
-        "app_name": "March of Empires Gameloft",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of Empires Gameloft",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Clash of Queens",
     "package_name": "com.elex.coq.gp",
-    "alternate": [
-      {
-        "app_name": "March of Empires Gameloft",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of Empires Gameloft",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Zombie World SLG 3D",
     "package_name": "com.zw.zombieworld.gp",
-    "alternate": [
-      {
-        "app_name": "Dead target: Zombie by VNG STUDIOS",
-        "package_name": "com.vng.g6.a.zombie"
-      }
-    ]
+    "alternate_app_name": "Dead target: Zombie by VNG STUDIOS",
+    "alternate_app_package_name": "com.vng.g6.a.zombie",
+    "alternate_app_NATIONALITY": "Vietname"
+  },
+  {
+    "app_name": "PUBG",
+    "package_name": "com.tencent.ig",
+    "alternate_app_name": "INDIANARMY BATTLE HERO by Creative monkey games",
+    "alternate_app_package_name": "com.creativemonkeygames.armybattlehero",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Heroes War",
     "package_name": "com.hcg.tos.gp",
-    "alternate": [
-      {
-        "app_name": "INDIANARMY BATTLE HERO by Creative monkey games",
-        "package_name": "com.creativemonkeygames.armybattlehero"
-      }
-    ]
+    "alternate_app_name": "INDIANARMY BATTLE HERO by Creative monkey games",
+    "alternate_app_package_name": "com.creativemonkeygames.armybattlehero",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Mobile Legends",
     "package_name": "com.mobile.legends",
-    "alternate": [
-      {
-        "app_name": "YALGHAR by Rockville Games",
-        "package_name": "com.rockville.terrorist.shooter"
-      }
-    ]
+    "alternate_app_name": "YALGHAR by Rockville Games",
+    "alternate_app_package_name": "com.rockville.terrorist.shooter",
+    "alternate_app_NATIONALITY": "Pakistani (Cross-check)"
   },
   {
     "app_name": "ClubFactory",
     "package_name": "club.fromfactory",
-    "alternate": [
-      {
-        "app_name": "Jio mart",
-        "package_name": "in.digital.reliance"
-      }
-    ]
+    "alternate_app_name": "Jio mart",
+    "alternate_app_package_name": "in.digital.reliance",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Shein",
     "package_name": "com.zzkko",
-    "alternate": [
-      {
-        "app_name": "TATA CLIQ",
-        "package_name": "com.tul.tatacliq"
-      }
-    ]
+    "alternate_app_name": "TATA CLIQ",
+    "alternate_app_package_name": "com.tul.tatacliq",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Romwe",
     "package_name": "com.romwe",
-    "alternate": [
-      {
-        "app_name": "Jio mart",
-        "package_name": "in.digital.reliance"
-      }
-    ]
+    "alternate_app_name": "Jio mart",
+    "alternate_app_package_name": "in.digital.reliance",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "AppLock",
     "package_name": "com.domobile.applockwatcher",
-    "alternate": [
-      {
-        "app_name": "AppLock by SpSoft",
-        "package_name": "com.sp.protector.free"
-      }
-    ]
+    "alternate_app_name": "AppLock by SpSoft",
+    "alternate_app_package_name": "com.sp.protector.free",
+    "alternate_app_NATIONALITY": "Korean (Cross-check)"
   },
   {
     "app_name": "VMate",
     "package_name": "com.uc.vmate",
-    "alternate": [
-      {
-        "app_name": "IG TV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "MTRON",
+    "alternate_app_package_name": "com.mitron.tv",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Game of Sultans",
     "package_name": "com.dc.hwsj",
-    "alternate": [
-      {
-        "app_name": "March of Empires Gameloft",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of Empires Gameloft",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Mafia City",
     "package_name": "com.yottagames.mafiawar",
-    "alternate": [
-      {
-        "app_name": "Mafia empire city of crime by Farbflut Entertainment",
-        "package_name": "com.Farbflut.MafiaEmpire"
-      }
-    ]
+    "alternate_app_name": "Mafia empire city of crime by Farbflut Entertainment",
+    "alternate_app_package_name": "com.Farbflut.MafiaEmpire",
+    "alternate_app_NATIONALITY": "German"
   },
   {
     "app_name": "Wechat",
     "package_name": "com.tencent.mm",
-    "alternate": [
-      {
-        "app_name": "Whatsapp",
-        "package_name": "com.whatsapp"
-      }
-    ]
+    "alternate_app_name": "Whatsapp",
+    "alternate_app_package_name": "com.whatsapp",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "QQ",
     "package_name": "com.tencent.mobileqq",
-    "alternate": [
-      {
-        "app_name": "Telegram",
-        "package_name": "org.telegram.messenger"
-      }
-    ]
+    "alternate_app_name": "NamasteBharat",
+    "alternate_app_package_name": "com.namastebharat&hl",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
-    "app_name": "360 Mobile Guard",
-    "package_name": "com.security.antivirus.sefeanti",
-    "alternate": [
-      {
-        "app_name": "QUICK HEAL  free antivirus",
-        "package_name": "com.quickheal.platform"
-      }
-    ]
+    "app_name": "DU Antivirus Security - Cleaner & Booster",
+    "package_name": "com.DU.antivirus.cleaner.boosterpro",
+    "alternate_app_name": "QUICK HEAL  free antivirus",
+    "alternate_app_package_name": "com.quickheal.platform",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Taobao",
     "package_name": "com.taobao.taobao",
-    "alternate": [
-      {
-        "app_name": "INDIA MART",
-        "package_name": "com.indiamart.m"
-      }
-    ]
+    "alternate_app_name": "INDIA MART",
+    "alternate_app_package_name": "com.indiamart.m",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Sina Weibo",
     "package_name": "com.sina.weibo",
-    "alternate": [
-      {
-        "app_name": "INSTAGRAM",
-        "package_name": "com.instagram.android"
-      }
-    ]
+    "alternate_app_name": "INSTAGRAM",
+    "alternate_app_package_name": "com.instagram.android",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "Weibo",
     "package_name": "com.weico.international",
-    "alternate": [
-      {
-        "app_name": "INSTAGRAM",
-        "package_name": "com.instagram.android"
-      }
-    ]
+    "alternate_app_name": "INSTAGRAM",
+    "alternate_app_package_name": "com.instagram.android",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "UC News",
     "package_name": "com.uc.iflow",
-    "alternate": [
-      {
-        "app_name": "Inshorts",
-        "package_name": "com.nis.app"
-      }
-    ]
+    "alternate_app_name": "Inshorts",
+    "alternate_app_package_name": "com.nis.app",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "NewsDog",
     "package_name": "com.newsdog",
-    "alternate": [
-      {
-        "app_name": "Inshorts",
-        "package_name": "com.nis.app"
-      }
-    ]
+    "alternate_app_name": "Inshorts",
+    "alternate_app_package_name": "com.nis.app",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "VivaVideo- QU Video Inc",
     "package_name": "com.quvideo.vivavideo.lite",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "MITRON",
+    "alternate_app_package_name": "com.mitron.tv",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Parallel Space",
     "package_name": "com.lbe.parallel.intl",
-    "alternate": [
-      {
-        "app_name": "Drive by Google",
-        "package_name": "com.google.android.apps.docs"
-      }
-    ]
+    "alternate_app_name": "Drive by Google",
+    "alternate_app_package_name": "com.google.android.apps.docs",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "APUS Browser",
     "package_name": "com.apusapps.browser",
-    "alternate": [
-      {
-        "app_name": "Chrome",
-        "package_name": "com.android.chrome"
-      }
-    ]
-  },
-  {
-    "app_name": "Perfect Corp",
-    "package_name": "com.cyberlink.youperfect",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Chrome",
+    "alternate_app_package_name": "com.android.chrome",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Virus Cleaner (Hi Security Lab)",
     "package_name": "com.HIsecurity.antivirus.litepro",
-    "alternate": [
-      {
-        "app_name": "QUICK HEAL  free antivirus",
-        "package_name": "com.quickheal.platform"
-      }
-    ]
+    "alternate_app_name": "QUICK HEAL  free antivirus",
+    "alternate_app_package_name": "com.quickheal.platform",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "CM Browser",
     "package_name": "com.cm.browser.downloader.adblock",
-    "alternate": [
-      {
-        "app_name": "Chrome",
-        "package_name": "com.android.chrome"
-      }
-    ]
+    "alternate_app_name": "Chrome",
+    "alternate_app_package_name": "com.android.chrome",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Vault-Hide",
     "package_name": "com.netqin.ps",
-    "alternate": [
-      {
-        "app_name": "Google Authenticator",
-        "package_name": "com.google.android.apps.authenticator"
-      }
-    ]
+    "alternate_app_name": "Google Authenticator",
+    "alternate_app_package_name": "com.google.android.apps.authenticator",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "YouCam Makeup",
     "package_name": "com.cyberlink.youcammakeup",
-    "alternate": [
-      {
-        "app_name": "Cymera Camera",
-        "package_name": "com.cyworld.camera"
-      }
-    ]
+    "alternate_app_name": "Cymera Camera ",
+    "alternate_app_package_name": "com.cyworld.camera",
+    "alternate_app_NATIONALITY": "Korean"
   },
   {
     "app_name": "Mi Store",
     "package_name": "com.mi.global.shop",
-    "alternate": [
-      {
-        "app_name": "Playstore",
-        "package_name": "com.google.android.play.games"
-      }
-    ]
+    "alternate_app_name": "Playstore",
+    "alternate_app_package_name": "com.google.android.play.games",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "DU Battery Saver",
     "package_name": "com.limsky.ramcleaner",
-    "alternate": [
-      {
-        "app_name": "Kaspersky Battery Life",
-        "package_name": "com.kaspersky.batterysaver"
-      }
-    ]
+    "alternate_app_name": "Kaspersky Battery Life",
+    "alternate_app_package_name": "5282000619223025472",
+    "alternate_app_NATIONALITY": "Russian (Cross-check)"
   },
   {
     "app_name": "DU Cleaner",
     "package_name": "com.DU.Cleaner.antivirus.cleanphone",
-    "alternate": [
-      {
-        "app_name": "Files by google",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files by google",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Baidu Map",
     "package_name": "com.baidu.BaiduMap",
-    "alternate": [
-      {
-        "app_name": "Google maps",
-        "package_name": "com.google.android.apps.mapslite"
-      }
-    ]
+    "alternate_app_name": "Google maps",
+    "alternate_app_package_name": "com.google.android.apps.mapslite",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Photo Wonder",
     "package_name": "com.yubitu.android.YubiCollage",
-    "alternate": [
-      {
-        "app_name": "Google photos",
-        "package_name": "com.google.android.apps.photos"
-      }
-    ]
+    "alternate_app_name": "Google photos",
+    "alternate_app_package_name": "com.google.android.apps.photos",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "QQ Music",
     "package_name": "com.tencent.qqmusic",
-    "alternate": [
-      {
-        "app_name": "JIO SAAVAN",
-        "package_name": "com.jio.media.jiobeats"
-      }
-    ]
+    "alternate_app_name": "JIO SAAVAN",
+    "alternate_app_package_name": "com.jio.media.jiobeats",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "QQ Mail",
     "package_name": "com.tencent.androidqqmail",
-    "alternate": [
-      {
-        "app_name": "Gmail",
-        "package_name": "com.google.android.gm"
-      }
-    ]
+    "alternate_app_name": "Gmail",
+    "alternate_app_package_name": "com.google.android.gm",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Mail Master",
     "package_name": "com.netease.mail",
-    "alternate": [
-      {
-        "app_name": "Gmail",
-        "package_name": "com.google.android.gm"
-      }
-    ]
+    "alternate_app_name": "Gmail",
+    "alternate_app_package_name": "com.google.android.gm",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Mi Video call-Xiaomi",
     "package_name": "com.miui.videoplayer",
-    "alternate": [
-      {
-        "app_name": "Google Duo",
-        "package_name": "com.google.android.apps.tachyon"
-      }
-    ]
+    "alternate_app_name": "Google Duo",
+    "alternate_app_package_name": "com.google.android.apps.tachyon",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Pleco",
     "package_name": "com.pleco.chinesesystem",
-    "alternate": [
-      {
-        "app_name": "GoogleTranslate",
-        "package_name": "com.google.android.apps.translate"
-      }
-    ]
+    "alternate_app_name": "GoogleTranslate",
+    "alternate_app_package_name": "com.google.android.apps.translate",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "All video downloader",
     "package_name": "com.snowwhiteapps.downloader",
-    "alternate": [
-      {
-        "app_name": "Free Video Downloader by Simple Design Ltd",
-        "package_name": "free.video.downloader.freevideodownloader"
-      }
-    ]
+    "alternate_app_name": "Free Video Downloader by Simple Design Ltd",
+    "alternate_app_package_name": "free.video.downloader.freevideodownloader",
+    "alternate_app_NATIONALITY": "Showing British Virgin Islands"
   },
   {
     "app_name": "Vigo Lite",
     "package_name": "com.ss.android.ugc.boomlite",
-    "alternate": [
-      {
-        "app_name": "Dubsmash",
-        "package_name": "com.mobilemotion.dubsmash"
-      }
-    ]
+    "alternate_app_name": "Dubsmash",
+    "alternate_app_package_name": "com.mobilemotion.dubsmash",
+    "alternate_app_NATIONALITY": "German"
   },
   {
     "app_name": "Udictionary",
     "package_name": "com.youdao.hindict",
-    "alternate": [
-      {
-        "app_name": "English Hindi Dictionary",
-        "package_name": "HinKhoj.Dictionary"
-      }
-    ]
+    "alternate_app_name": "English Hindi Dictionary",
+    "alternate_app_package_name": "HinKhoj.Dictionary",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Livu",
     "package_name": "com.videochat.livu",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "IGTV",
+    "alternate_app_package_name": "com.instagram.igtv",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "Uplive",
     "package_name": "com.asiainno.uplive",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "IGTV",
+    "alternate_app_package_name": "com.instagram.igtv",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "Kings of Avalon",
     "package_name": "com.funplus.kingofavalon",
-    "alternate": [
-      {
-        "app_name": "March of empires",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of empires",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Guns of glory",
     "package_name": "com.diandian.gog",
-    "alternate": [
-      {
-        "app_name": "March of Empires",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of Empires ",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Castle Cash",
     "package_name": "com.igg.castleclash",
-    "alternate": [
-      {
-        "app_name": "March of Empires",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of Empires ",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "NonoLive",
     "package_name": "com.nono.android",
-    "alternate": [
-      {
-        "app_name": "IGTV",
-        "package_name": "com.instagram.igtv"
-      }
-    ]
+    "alternate_app_name": "IGTV",
+    "alternate_app_package_name": "com.instagram.igtv",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "Dating.com",
     "package_name": "com.dating.android",
-    "alternate": [
-      {
-        "app_name": "India Social Dating",
-        "package_name": "com.innovate.IndiaSocial"
-      }
-    ]
+    "alternate_app_name": "India Social Dating",
+    "alternate_app_package_name": "com.innovate.IndiaSocial",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Hello Yo",
     "package_name": "sg.bigo.hellotalk",
-    "alternate": [
-      {
-        "app_name": "Google Hangouts",
-        "package_name": "com.google.android.talk"
-      }
-    ]
+    "alternate_app_name": "Google Hangouts",
+    "alternate_app_package_name": "com.google.android.talk",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Lagecy of discord",
     "package_name": "com.gtarcade.lod",
-    "alternate": [
-      {
-        "app_name": "March of empires",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of empires ",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Last empire",
     "package_name": "com.longtech.lastwars.gp",
-    "alternate": [
-      {
-        "app_name": "March of empires",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of empires ",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Art of conquest",
     "package_name": "com.lilithgame.sgame.gp.oss",
-    "alternate": [
-      {
-        "app_name": "March of empires",
-        "package_name": "com.gameloft.android.ANMP.Gloft"
-      }
-    ]
+    "alternate_app_name": "March of empires",
+    "alternate_app_package_name": "com.gameloft.android.ANMP.Gloft",
+    "alternate_app_NATIONALITY": "French"
   },
   {
     "app_name": "Flash Keyboard",
     "package_name": "com.flashkeyboardtheme",
-    "alternate": [
-      {
-        "app_name": "Gboard",
-        "package_name": "com.google.android.inputmethod.latin"
-      }
-    ]
+    "alternate_app_name": "Gboard ",
+    "alternate_app_package_name": "com.google.android.inputmethod.latin",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Turbo VPN",
     "package_name": "free.vpn.unblock.proxy.turbovpn",
-    "alternate": [
-      {
-        "app_name": "Nord VPN",
-        "package_name": "com.nordvpn.android"
-      }
-    ]
+    "alternate_app_name": "Nord VPN",
+    "alternate_app_package_name": "com.nordvpn.android",
+    "alternate_app_NATIONALITY": "American (Cross-check)"
   },
   {
     "app_name": "viva Video",
     "package_name": "com.quvideo.xiaoying",
-    "alternate": [
-      {
-        "app_name": "Youtube",
-        "package_name": "com.google.android.youtube&hl=en_IN"
-      }
-    ]
+    "alternate_app_name": "Youtube",
+    "alternate_app_package_name": "com.google.android.youtube&hl=en_IN",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Alibaba.com",
     "package_name": "com.alibaba.intl.android.apps.poseidon",
-    "alternate": [
-      {
-        "app_name": "TATA CLIQ",
-        "package_name": "com.tul.tatacliq"
-      }
-    ]
+    "alternate_app_name": "TATA CLIQ",
+    "alternate_app_package_name": "com.tul.tatacliq",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "AppLock lite",
     "package_name": "com.domobile.applock.lite",
-    "alternate": [
-      {
-        "app_name": "App Lock by kohinoor Apps",
-        "package_name": "fingerprint.applock"
-      }
-    ]
+    "alternate_app_name": "App Lock by kohinoor Apps",
+    "alternate_app_package_name": "fingerprint.applock",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "AliExpress",
     "package_name": "com.alibaba.aliexpresshd",
-    "alternate": [
-      {
-        "app_name": "TATA CLIQ",
-        "package_name": "com.tul.tatacliq"
-      }
-    ]
+    "alternate_app_name": "TATA CLIQ",
+    "alternate_app_package_name": "com.tul.tatacliq",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "iTao",
     "package_name": "com.alibaba.aliexpress.itao",
-    "alternate": [
-      {
-        "app_name": "AJIO",
-        "package_name": "com.ril.ajio"
-      }
-    ]
+    "alternate_app_name": "AJIO",
+    "alternate_app_package_name": "com.ril.ajio",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "ES File Manager",
     "package_name": "com.tool.fileexplorer.filemanager.filetransfer",
-    "alternate": [
-      {
-        "app_name": "Files by Google",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files by Google",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "File Explorer File Manager",
     "package_name": "com.file.manager.filebrowser",
-    "alternate": [
-      {
-        "app_name": "Files",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Music Player",
     "package_name": "com.musicplayer.musica.musicapps.playermusic",
-    "alternate": [
-      {
-        "app_name": "JIO SAAVAN",
-        "package_name": "com.jio.media.jiobeats"
-      }
-    ]
+    "alternate_app_name": "JIO SAAVAN",
+    "alternate_app_package_name": "com.jio.media.jiobeats",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "mi pay",
     "package_name": "com.mipay.in.wallet",
-    "alternate": [
-      {
-        "app_name": "Google Pay",
-        "package_name": "com.google.android.apps.nbu.paisa.user"
-      }
-    ]
+    "alternate_app_name": "Google Pay",
+    "alternate_app_package_name": "com.google.android.apps.nbu.paisa.user",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "mi remote control",
     "package_name": "com.duokan.phone.remotecontroller",
-    "alternate": [
-      {
-        "app_name": "Android TV Remote by Google LLC",
-        "package_name": "com.google.android.tv.remote"
-      }
-    ]
+    "alternate_app_name": "Android TV Remote by Google LLC",
+    "alternate_app_package_name": "com.google.android.tv.remote",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "banggood",
     "package_name": "com.banggood.client",
-    "alternate": [
-      {
-        "app_name": "INDIAMART",
-        "package_name": "com.indiamart.m"
-      }
-    ]
+    "alternate_app_name": "INDIAMART",
+    "alternate_app_package_name": "com.indiamart.m",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "Mi Credit",
     "package_name": "com.micredit.in.gp",
-    "alternate": [
-      {
-        "app_name": "Dhani Personal loans by Indiabulls",
-        "package_name": "com.indiaBulls"
-      }
-    ]
+    "alternate_app_name": "Dhani Personal loans by Indiabulls ",
+    "alternate_app_package_name": "com.indiaBulls",
+    "alternate_app_NATIONALITY": "Indian"
   },
   {
     "app_name": "WPS Office",
     "package_name": "cn.wps.moffice_eng",
-    "alternate": [
-      {
-        "app_name": "Google docs",
-        "package_name": "com.google.android.apps.docs.editors.docs"
-      }
-    ]
+    "alternate_app_name": "Google docs ",
+    "alternate_app_package_name": "com.google.android.apps.docs.editors.docs",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "WPS Office Lite",
     "package_name": "cn.wps.moffice_i18n",
-    "alternate": [
-      {
-        "app_name": "Google docs",
-        "package_name": "com.google.android.apps.docs.editors.docs"
-      }
-    ]
+    "alternate_app_name": "Google docs",
+    "alternate_app_package_name": "com.google.android.apps.docs.editors.docs",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "WPS PDF",
     "package_name": "cn.wps.pdf",
-    "alternate": [
-      {
-        "app_name": "Google docs",
-        "package_name": "com.google.android.apps.docs.editors.docs"
-      }
-    ]
-  },
-  {
-    "app_name": "WPS Office Extra",
-    "package_name": "cn.wps.moffice_extra",
-    "alternate": [
-      {
-        "app_name": "Google docs",
-        "package_name": "com.google.android.apps.docs.editors.docs"
-      }
-    ]
-  },
-  {
-    "app_name": "WPS Premium Subscription",
-    "package_name": "cn.wps.moffice_premium",
-    "alternate": [
-      {
-        "app_name": "Google docs",
-        "package_name": "com.google.android.apps.docs.editors.docs"
-      }
-    ]
-  },
-  {
-    "app_name": "WPS PDF Fill",
-    "package_name": "cn.wps.pdf.fillsign",
-    "alternate": [
-      {
-        "app_name": "Google docs",
-        "package_name": "com.google.android.apps.docs.editors.docs"
-      }
-    ]
+    "alternate_app_name": "Google docs",
+    "alternate_app_package_name": "com.google.android.apps.docs.editors.docs",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Zapya - File Transfer, Sharing Music Playlist",
     "package_name": "om.dewmobile.kuaiya.play",
-    "alternate": [
-      {
-        "app_name": "Files",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "Zapya WebShare - File Sharing in Web Browser",
     "package_name": "com.dewmobile.kuaiya.web",
-    "alternate": [
-      {
-        "app_name": "Files",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
-  },
-  {
-    "app_name": "Zapya Go - From File Transfer to Private Social",
-    "package_name": "com.dewmobile.zapyago",
-    "alternate": [
-      {
-        "app_name": "Files",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
+    "alternate_app_name": "Files ",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "RecorderZ - Screen Recorder by Zapya",
     "package_name": "com.dewmobile.kuaiya.recorder",
-    "alternate": [
-      {
-        "app_name": "REC Screen Recorder by Safe Partner Inc",
-        "package_name": "us.rec.screen"
-      }
-    ]
+    "alternate_app_name": "REC Screen Recorder by Safe Partner Inc ",
+    "alternate_app_package_name": "us.rec.screen",
+    "alternate_app_NATIONALITY": "American"
   },
   {
     "app_name": "MyDearest",
     "package_name": "com.dewmobile.kuaibao.gp",
-    "alternate": [
-      {
-        "app_name": "Google Find my device",
-        "package_name": "com.google.android.apps.adm"
-      }
-    ]
+    "alternate_app_name": "Google Find my device ",
+    "alternate_app_package_name": "com.google.android.apps.adm",
+    "alternate_app_COMPANY": "Google"
   },
   {
     "app_name": "AppLockZ by Zapya",
     "package_name": "com.dewmobile.kuaiya.zproj.applockz",
-    "alternate": [
-      {
-        "app_name": "Ap Lock bySpsoft",
-        "package_name": "com.sp.protector.free"
-      }
-    ]
+    "alternate_app_name": "Ap Lock by Spsoft",
+    "alternate_app_package_name": "com.sp.protector.free",
+    "alternate_app_NATIONALITY": "Korean (Cross-check)"
   },
   {
     "app_name": "FileZ - Easy File Manager",
     "package_name": "com.dewmobile.kuaiya.filez",
-    "alternate": [
-      {
-        "app_name": "Files by Google",
-        "package_name": "com.google.android.apps.nbu.files"
-      }
-    ]
-  },
-  {
-    "app_name": "DingTalk",
-    "package_name": "com.alibaba.android.rimet",
-    "alternate": [
-      {
-        "app_name": "Intune Company Portal by Microsoft",
-        "package_name": "com.microsoft.windowsintune.companyportal"
-      }
-    ]
-  },
-  {
-    "app_name": "DingTalk Lite",
-    "package_name": "com.alibaba.dingtalk.global",
-    "alternate": [
-      {
-        "app_name": "Intune company portal by Microsoft",
-        "package_name": "com.microsoft.windowsintune.companyportal"
-      }
-    ]
+    "alternate_app_name": "Files by Google",
+    "alternate_app_package_name": "com.google.android.apps.nbu.files",
+    "alternate_app_COMPANY": "Google"
   }
 ]

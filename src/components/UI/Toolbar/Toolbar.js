@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import classes from './Toolbar.module.scss';
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
+import { faSearch, faTimes } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import ReactDOM from "react-dom";
 
 
 class Toolbar extends Component {
@@ -34,9 +35,14 @@ class Toolbar extends Component {
   render() {
     return (
       <header>
-        <div className={classes.Title}>App Suggestions
-         </div>
-        {/* <div className={classes.about}>About Us</div> */}
+        <div
+          className={classes.Title}>
+          {/* <img className={classes.fa} src="cross.png" /> */}
+          {/* <FontAwesomeIcon className={classes.fa}  icon={faTimes} /> */}
+
+        RemoveDragon <img className={classes.dragon} src="dragon-removebg-preview (1).png" />
+        </div>
+        <div className={classes.about}>Remove the DRAGON from your Device and Find Reliable Alternatives!!</div>
         <div className={classes.SearchBox}>
           <label htmlFor='search' className={classes.Label}>
             <FontAwesomeIcon icon={faSearch} />
